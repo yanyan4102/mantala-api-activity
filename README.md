@@ -1,5 +1,5 @@
 1. Markdown
-2. # RESTful API Activity - [Your Name]
+2. # DIANNE_MANTALA
 3. ## Best Practices Implementation
 4. **1. Environment Variables:**
 5. - Why did we put `BASE_URI` in `.env` instead of hardcoding it?
@@ -14,4 +14,5 @@
 13. - Why is it important to return `404` instead of just an empty array or a generic error?
 14. - Answer: Its important to return 404, so it makes easier to the client to identify whether the   error is in the id/route instead of returned the 200 or empty that has no results/empty. 
 15. **4. Testing:**
+
 16. - (Paste a screenshot of a successful GET request here)
