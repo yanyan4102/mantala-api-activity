@@ -40,7 +40,6 @@ const updateTransaction = async (req, res) => {
      }
 };
 
-m
 
 
 const deleteTransaction = async (req, res) => {
